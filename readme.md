@@ -10,7 +10,7 @@ With this API you can create, update and delete an user and notes that has tags 
 
 ## Lessons Learned
 
-With this project I was able to learn about:
+Technologies used in this project:
 - *NodeJS* enviroment 
 - *Express JS* and how to set routes;
 - Make queries with SQL;
@@ -21,14 +21,14 @@ With this project I was able to learn about:
 ### To start de server use the command in CLI: 
 #### npm run dev
 it will start the server
-
+<hr>
 ### To create database and tables use the migrations command in CLI:
 #### npm run migrate 
 this one is to set up the tables
-
+<hr>
 ### To seeed the databse use the command in CLI:
 #### npm run seed
-
+<hr>
 ### With it done you'll be able to run the server with the dabatabase
 #### Make database interface connect with database file;
 
