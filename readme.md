@@ -8,9 +8,9 @@
 With this API you can create, update and delete an user and notes that has tags and links attached.
 
 
-## Lessons Learned
 
-Technologies used in this project:
+## Technologies used in this project:
+
 - *NodeJS*
 - *Express JS*
 - SQLite
