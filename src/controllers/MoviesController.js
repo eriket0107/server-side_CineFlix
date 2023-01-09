@@ -14,10 +14,11 @@ class MoviesController {
       stars: Number(stars),
     })
 
-    
+    const movieId =  movie_id[0]
+
     const tagsInsert = tags.map(name =>{
       return {
-        movie_id,
+        movie_id: movieId,
         name,
         user_id
       }
@@ -27,7 +28,7 @@ class MoviesController {
       return res.json('Filme cadastrado com sucesso!')
     }
     
-    await knex('tags').select("*").insert(tagsInsert)
+    await knex('tags').insert(tagsInsert)
     
    return res.json('Filme cadastrado com sucesso!')
   } 
