@@ -25,13 +25,13 @@ it will start the server
 
 <hr>
 
-### To create database and tables use the migrations command in CLI:
+### To create database and tables use the migrations in CLI:
 #### npm run migrate 
 this one is to set up the tables
 
 <hr>
 
-### To seeed the databse use the command in CLI:
+### To seed the databse use in CLI:
 #### npm run seed
 
 <hr>
