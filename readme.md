@@ -11,9 +11,10 @@ With this API you can create, update and delete an user and notes that has tags 
 ## Lessons Learned
 
 Technologies used in this project:
-- *NodeJS* enviroment 
-- *Express JS* and how to set routes;
-- Make queries with SQL;
+- *NodeJS*
+- *Express JS*
+- SQLite
+- KnexJS
 
 
 ## Documentation
