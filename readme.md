@@ -14,8 +14,6 @@ With this project I was able to learn about:
 - *NodeJS* enviroment 
 - *Express JS* and how to set routes;
 - Make queries with SQL;
-- How to organize folders and files in this method of backend aplication using MVC; 
-- How to build queries with *Knex JS* tool (ORM);
 
 
 ## Documentation
