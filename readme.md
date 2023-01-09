@@ -2,7 +2,7 @@
 ## Client Side (FRONTEND)
 ### https://github.com/eriket0107/client_side-CineFlix
 
-# API Notes - Challenge of Rocketseat stage 08
+# API Cineflix - API Restful 10
 
 
 With this API you can create, update and delete an user and notes that has tags and links attached.
